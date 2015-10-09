@@ -1,12 +1,15 @@
 # 模擬投影片在大場所時的觀看狀況 #
-<img src='photo.jpg'> 台北 中央研究院人文社會科學館<br>
-<img src='photo2.jpg'> 高雄 國際會議中心
+高雄 國際會議中心<br>
+<img src='photo2.jpg'><br>
+台北 中央研究院人文社會科學館<br>
+<img src='photo.jpg'><br>
 ### 建議 ###
+- 白底比黑底好
+  - 投影機與光學原理的關係，白色受環境光影響最小，黑色等於不投射光，會完全顯現環境光的顏色
 - 高對比的配色
 - 黑底千萬不要選用 #0000FF (blue)
-- 白底比黑底好
 - 字體調大
-- IDE 在 live Demo 時改為 light theme，且放大字體
+- IDE 在 Live Demo 時改為 light theme，且放大字體
 - MAC 有螢幕反相顏色及增強對比的功能，設定 > 輔助使用 > 顯示器 > 反相顏色
   - 開啟快捷鍵 Control-Option-Command-8 ：鍵盤 > 快速鍵 > 輔助使用 > 反相顏色
 - ps. 網路受訊號干擾可能性很大，WIFI 可能會連不上
